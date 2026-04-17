@@ -1,8 +1,8 @@
 # Excel Data Cleaning Project
 
-**Tool:** Microsoft Excel
-**Dataset:** E-commerce Orders (Raw → Clean)
-**Link of Dataset:** https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset?
+**Tool:** Microsoft Excel  
+**Dataset:** E-commerce Orders (Raw → Clean)  
+**Link of Dataset:** https://www.kaggle.com/datasets/kandeelai22/messy-e-commerce-sales-dataset?  
 
 ---
 
