@@ -29,4 +29,4 @@ MySQL 8.0 | Excel 365 | Power BI Desktop | Python 3.x | Pandas
 
 ## Contact
 **Email:** ghulammohyuddin.coder@gmail.com  
-**LinkedIn:** linkedin.com/in/ghulam-mohyuddin-047408371/
+**LinkedIn:** https://www.linkedin.com/in/ghulam-mohyuddin-047408371/
