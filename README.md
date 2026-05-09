@@ -23,41 +23,31 @@ No tutorial hell. Only active construction.
 
 ---
 ## Repository Structure
+
+```text
 Data-Analytics-Skill-Building/
 │
 ├── Advanced_Excel_Analytics/
-│   │
 │   ├── Data_Wrangling_&_Formatting/
-│   │
 │   └── Projects/
-│       │
 │       └── Sales_Data_Cleaning_&_Summary_Dashboard/
 │
 ├── SQL_Analytics/
-│   │
 │   ├── Practice_Problems/
-│   │   │
 │   │   ├── DataLemur_Learning_Problems/
 │   │   └── HackerRank_Problems/
-│   │
 │   └── Projects/
-│       │
 │       └── Retail_Sales_Analysis/
 │
 ├── Power_BI_Business_Intelligence/
-│   │
 │   └── Projects/
-│       │
 │       └── Sales_Performance_KPI_Dashboard/
 │
-└── Python_Analytics/   [Coming Soon]
-    │
+└── Python_Analytics/ [Coming Soon]
     ├── Pandas_Data_Cleaning/
-    │
     └── Projects/
-        │
         └── Ecommerce_EDA_Cleaning_Pipeline/
----
+```
 
 ## Projects At A Glance
 
