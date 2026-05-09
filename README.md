@@ -1,32 +1,83 @@
 # Data-Analytics-Skill-Building
 
-A structured, self-directed analytics engineering portfolio built to demonstrate junior-to-mid level data analysis capability across 
-MySQL, Excel, Power BI, and Python.
+A structured, self-directed analytics engineering portfolio
+built to demonstrate junior-to-mid level data analysis
+capability across MySQL, Advanced Excel, Power BI, and Python.
+
+Every project in this vault is built on real datasets,
+documented professionally, and designed to be fully
+defensible in a technical interview or viva.
+
+---
 
 ## About This Vault
-I am bridging software engineering principles with data-driven decision-making to transform raw, complex datasets into actionable corporate leverage. This vault serves as my active engineering environment, documenting my systematic execution of real-world business pipelines—from automated data extraction and cleaning to enterprise-grade dashboarding.
 
-## Structure
-* `00_Foundations_&_Mindset/`
-* `01_SQL_Database_Querying/`
-* `02_Advanced_Excel_Analytics/`
-* `03_Power_BI_Business_Intelligence/`
-* `04_Python_Analytics_&_Automation/`
-* `05_Capstone_Integration_Project/`
+This is not a collection of tutorials followed passively.
+Every folder contains active engineering work — real datasets,
+real business questions, real findings. Built while
+simultaneously preparing for data analyst roles in the
+Pakistani tech market.
 
-## Current Progress
-| Engineering Module | Execution Status |
-| :--- | :--- |
-| `00_Foundations_&_Mindset` | Complete |
-| `01_SQL_Database_Querying` | In Progress (Executing HackerRank Sprints) |
-| `02_Advanced_Excel_Analytics` | In Progress |
-| `03_Power_BI_Business_Intelligence` | Planned |
-| `04_Python_Analytics_&_Automation` | Planned |
-| `05_Capstone_Integration_Project` | In Progress |
+**Approach:** 1 hour learning → 3 hours building.
+No tutorial hell. Only active construction.
+
+---
+
+## Repository Structure
+Data-Analytics-Skill-Building/
+│
+├── Advanced_Excel_Analytics/
+│   ├── Data_Wrangling_&Formatting/
+│   └── Projects/
+│       └── Sales_Data_Cleaning&_Summary_Dashboard/
+│
+├── SQL_Analytics/
+│   ├── Practise_Problems/
+│   │   ├── Data_Lemur_Learning_Problems/
+│   │   └── HackerRank_Problems/
+│   └── Projects/
+│       └── Retail_Sales_Analysis/
+│
+├── Power_BI_Business_Intelligence/
+│   └── Project/
+│       └── Sales_Performance_KPI_Dashboard/
+│
+└── Python_Analytics/                    [Coming Soon]
+├── Pandas_Data_Cleaning/
+└── Projects/
+└── Ecommerce_EDA_Cleaning_Pipeline/
+---
+
+## Projects At A Glance
+
+| # | Project | Tool | Key Skills | Status |
+|---|---|---|---|---|
+| 1 | Sales Data Cleaning & Summary Dashboard | Excel | TRIM, PROPER, XLOOKUP, SUMIF, Pivot Charts, Data Validation | ✅ Complete |
+| 2 | Retail Sales Analysis | MySQL | Aggregations, JOINs, Window Functions, CTEs, Subqueries | ✅ Complete |
+| 3 | Sales Performance KPI Dashboard | Power BI | Star Schema, DAX Time Intelligence, MoM, YTD, Slicers | ✅ Complete |
+| 4 | E-Commerce EDA & Cleaning Pipeline | Python | Pandas, Null Imputation, Dtype Normalization, Seaborn | 🔲 In Progress |
+| 5 | Integration Capstone | All Tools | End-to-end pipeline across all 4 tools | 🔲 Upcoming |
+
+---
+
+## Practice Work
+
+| Platform | Area | Status |
+|---|---|---|
+| HackerRank | Advanced SQL — 40+ problems solved | ✅ Active |
+| DataLemur | SQL Learning Problems | ✅ Active |
+| Kaggle | Python / Pandas practice | 🔲 Starting |
+
+---
 
 ## Tools & Technologies
-MySQL 8.0 | Excel 365 | Power BI Desktop | Python 3.x | Pandas
 
-## Contact
-**Email:** ghulammohyuddin.coder@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/ghulam-mohyuddin-047408371/
+| Tool | Version | Use Case |
+|---|---|---|
+| MySQL | 8.0 | Database querying and analysis |
+| Microsoft Excel | 365 | Data cleaning and dashboarding |
+| Power BI Desktop | Latest | Business intelligence and DAX |
+| Python | 3.x | EDA, cleaning, automation |
+| Pandas | Latest | Data manipulation |
+| Seaborn / Matplotlib | Latest | Visualization |
+| Jupyter Notebook | Latest | Analysis documentation |
