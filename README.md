@@ -49,18 +49,6 @@ Data-Analytics-Skill-Building/
         └── Ecommerce_EDA_Cleaning_Pipeline/
 ```
 
-## Projects At A Glance
-
-| # | Project | Tool | Key Skills | Status |
-|---|---|---|---|---|
-| 1 | Sales Data Cleaning & Summary Dashboard | Excel | TRIM, PROPER, XLOOKUP, SUMIF, Pivot Charts, Data Validation | ✅ Complete |
-| 2 | Retail Sales Analysis | MySQL | Aggregations, JOINs, Window Functions, CTEs, Subqueries | ✅ Complete |
-| 3 | Sales Performance KPI Dashboard | Power BI | Star Schema, DAX Time Intelligence, MoM, YTD, Slicers | ✅ Complete |
-| 4 | E-Commerce EDA & Cleaning Pipeline | Python | Pandas, Null Imputation, Dtype Normalization, Seaborn | 🔲 In Progress |
-| 5 | Integration Capstone | All Tools | End-to-end pipeline across all 4 tools | 🔲 Upcoming |
-
----
-
 ## Practice Work
 
 | Platform | Area | Status |
